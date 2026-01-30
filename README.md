@@ -28,7 +28,7 @@
   </a>
   <br><br>
   <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ram6023&style=for-the-badge" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=Ram6023&color=42F9F9&style=flat-square" alt="Profile Views" />
   </p>
 </div>
 
@@ -70,21 +70,25 @@
 
 ---
 
-## �️ Contribution Games
+## 🕹️ Contribution Games
 <div align="center">
+  <!-- Snake Game Animation -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ram6023/Ram6023/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ram6023/Ram6023/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ram6023/Ram6023/output/github-contribution-grid-snake.svg">
   </picture>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ram6023&layout=compact&theme=highcontrast" />
+  <br><br>
+  <!-- Pacman Game Style -->
+  <img src="https://github-contribution-stats.vercel.app/api?username=Ram6023" alt="Pacman Style Contribution" width="100%" />
 </div>
 
 ---
 
-## �🗂️ Language Usage
-<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ram6023&layout=compact&theme=highcontrast" />
+## 🗂️ Language Usage
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ram6023&layout=compact&theme=highcontrast" />
+</div>
 
 ---
 
