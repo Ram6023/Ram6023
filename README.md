@@ -72,16 +72,8 @@
 
 ## 🕹️ Contribution Games
 <div align="center">
-  <!-- Snake Game Animation -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ram6023/Ram6023/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ram6023/Ram6023/output/github-contribution-grid-snake.svg">
-    <img alt="Snake Game (Loading...)" src="https://raw.githubusercontent.com/Ram6023/Ram6023/output/github-contribution-grid-snake.svg" />
-  </picture>
-  <p><i>(Snake game updates every 24 hours - if broken, wait for the first Action run)</i></p>
-  <br>
   <!-- Pacman Game Style -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Ram6023&show_icons=true&theme=radical&hide_border=true" alt="Stats Game" width="100%" />
+  <img src="https://github-contribution-stats.vercel.app/api?username=Ram6023" alt="Pacman Style Contribution" width="100%" />
 </div>
 
 ---
