@@ -70,7 +70,20 @@
 
 ---
 
-## 🗂️ Language Usage
+## �️ Contribution Games
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ram6023/Ram6023/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ram6023/Ram6023/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ram6023/Ram6023/output/github-contribution-grid-snake.svg">
+  </picture>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ram6023&layout=compact&theme=highcontrast" />
+</div>
+
+---
+
+## �🗂️ Language Usage
 <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ram6023&layout=compact&theme=highcontrast" />
 
 ---
