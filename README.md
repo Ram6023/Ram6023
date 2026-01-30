@@ -9,7 +9,7 @@
 <!-- Typing Animation -->
 <div align="center">
   <br>
-  <a href="https://sriram-portfolio.netlify.app/">
+  <a href="https://sriramvissakoti.vercel.app/">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=42F9F9&center=true&vCenter=true&width=900&lines=Full-stack+Web+Developer;Creative+UI%2FUX+Enthusiast;Problem+Solver+%26+Open-Source+Contributor;Shaping+Ideas+into+Digital+Reality" alt="Typing SVG" />
   </a>
 </div>
@@ -40,7 +40,7 @@
 - 🛠️ Stay up to date with the latest tools and techniques to build scalable applications.
 - 🚀 Sharpening problem-solving skills and fostering creativity through a wide range of projects.
 - 💡 Eager to collaborate and bring your ideas to life!
-- 🌐 Explore my work → [**Portfolio**](https://sriram-portfolio.netlify.app/)
+- 🌐 Explore my work → [**Portfolio**](https://sriramvissakoti.vercel.app/)
 
 ---
 
