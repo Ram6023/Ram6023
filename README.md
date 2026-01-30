@@ -4,7 +4,7 @@
 </p>
 
 <!-- Intro Heading -->
-<h1 align="center">Hi, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="40" width="40" /> I'm <a href="https://www.linkedin.com/in/sriram-ram6023/" target="_blank">Sriram</a></h1>
+<h1 align="center">Hi, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="40" width="40" /> I'm <a href="https://www.linkedin.com/in/sriram-vissakoti" target="_blank">Sriram</a></h1>
 
 <!-- Typing Animation -->
 <div align="center">
@@ -19,7 +19,7 @@
 ## 🤝 Connect With Me  
 <div align="center">
   <a href="https://github.com/Ram6023" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/212284100-561aa273-3917-49bc-b781-64b97d305d24.gif" width="60" /></a>
-  <a href="https://www.linkedin.com/in/sriram-ram6023/" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="60" /></a>
+  <a href="https://www.linkedin.com/in/sriram-vissakoti" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="60" /></a>
   <a href="https://www.instagram.com/_.sriramnaidu._/" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="60" /></a>
   <a href="mailto:ram6023@gmail.com" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/212284115-99882414-0691-4929-9e79-5776d37f3743.gif" width="60" /></a>
   <br><br>
