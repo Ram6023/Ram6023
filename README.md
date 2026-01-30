@@ -57,8 +57,8 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Ram6023&theme=dracula&no-frame=true&no-bg=true&margin-w=4" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Ram6023&theme=synthwave&show_icons=true&hide_border=true" width="49%"/>
-  <img src="https://streak-stats.demolab.com/?user=Ram6023&theme=synthwave&hide_border=true" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ram6023&theme=radical&show_icons=true&hide_border=true&count_private=true" width="49%"/>
+  <img src="https://streak-stats.demolab.com/?user=Ram6023&theme=radical&hide_border=true" width="49%"/>
 </div>
 
 ---
