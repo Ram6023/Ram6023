@@ -3,7 +3,7 @@
   <img src="./assets/readme.gif" alt="Cyberpunk Banner" width="100%" />
 </p>
 
-<!-- Intro Heading -->
+<!-- Intro Heading --> 
 <h1 align="center">Hi, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="40" width="40" /> I'm <a href="https://www.linkedin.com/in/sriram-vissakoti" target="_blank">Sriram</a></h1>
 
 <!-- Typing Animation -->
